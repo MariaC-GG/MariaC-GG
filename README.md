@@ -1,4 +1,4 @@
-### Hi there 👋
+### Aloha👋
 
 <!--
 **MariaC-GG/MariaC-GG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
